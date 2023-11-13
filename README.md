@@ -1,5 +1,5 @@
 # Read-from-CSV
-
+## DATE:31.10.2023
 ## AIM:
 To write a python program to read contents from a CSV file.
 ## ALGORITHM:
